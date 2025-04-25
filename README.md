@@ -11,6 +11,8 @@ Blah blah this is some **sample text** Apples are red sometimes
 
 <ins>Yoohoo</ins>
 
+$\frac{\pi}{3.14159}\neq 1$
+
 Alt-H1
 ======
 
